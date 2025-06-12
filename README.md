@@ -23,6 +23,6 @@
 
 5) ¿Cuál es la dirección (address) y distrito (district) de la persona cuyo teléfono es 634445428822?
 
-SELECT address,district 
-FROM address 
-WHERE phone= '634445428822'
+   SELECT address,district 
+   FROM address 
+   WHERE phone= '634445428822'
