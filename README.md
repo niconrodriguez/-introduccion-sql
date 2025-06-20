@@ -1,4 +1,4 @@
-# -introduccion-sql
+# -Introduccion-sql
 
 1) ¿Cuántas tiendas (store) hay en total?
 
@@ -6,8 +6,9 @@
 
 2) ¿Cuántas películas (film) tienen una duración de más de 120 minutos?
   SELECT count (*)
-  FROM film
-  WHERE length > 120
+
+   FROM film
+   WHERE length > 120
    
 3) ¿Cuántos pagos realizó el cliente (customer) con el ID 472?
 
